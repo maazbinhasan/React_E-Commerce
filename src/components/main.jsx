@@ -1,6 +1,7 @@
 import React from "react";
 
 const Home = () => {
+  console.log("hello")
   return (
     <>
       <div className="hero border-1 pb-3">
